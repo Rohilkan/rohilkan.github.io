@@ -29,9 +29,9 @@ _________________
 
 ## Extracurriculars
 
-**Analyst: [Student Organization Finance Committee](https://sofc.notion.site)**
-**Duke Class '25 Treasurer**
-**Vice-President: Duke Wannamaker Quad Council**
+* **Analyst: [Student Organization Finance Committee](https://sofc.notion.site)**
+* **Duke Class '25 Treasurer**
+* **Vice-President: Duke Wannamaker Quad Council**
 
 __________________
 
