@@ -3,7 +3,7 @@ _________________
 
 ## About me
 
-I am current undergraduate student and [A.B. Duke Scholar](https://ousf.duke.edu/merit-scholarships/ab-duke-scholars-program/) at Duke University studying computer science, statistics, and economics. I am passionate about working with data and using data analysis to tackle business problems.
+I am current undergraduate student at Duke University studying computer science, statistics, and economics. I am passionate about working with data and using data analysis to tackle business problems.
 
 **Coding Languages:** Python, Java, R, Stata, C, & Javascript
 <br> **Relevant Courses:** Data Structures and Algorithms, Econometrics and Data Science, Regression Analysis, Data Analysis and Statistical Inference, Everything Data, Statistical Foundations of Econometrics and Data Science
