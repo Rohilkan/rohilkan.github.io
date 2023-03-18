@@ -4,5 +4,5 @@ github_link: https://github.com/yaoyao-liu/minimal-light
 linkedin: https://www.linkedin.com/in/rohilkan/
 favicon: ./assets/img/""
 favicon_dark: ./assets/img/""
-logo: .assets/headshot_up.jpeg
+logo: ./assets/headshot_up.jpeg
 theme: jekyll-theme-minimal
